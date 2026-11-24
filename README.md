@@ -41,7 +41,7 @@ Antes dos dados, foram mais de 10 anos em rotinas financeiras e fiscais: contas 
 
 **ERPs**
 
-![ORBIX](https://img.shields.io/badge/ORBIX-555555?style=flat)
+![ORBIX](https://img.shields.io/badge/Orbix-555555?style=flat)
 ![Omie](https://img.shields.io/badge/Omie-555555?style=flat)
 ![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-555555?style=flat)
 
