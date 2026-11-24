@@ -55,6 +55,94 @@ Antes dos dados, foram mais de 10 anos em rotinas financeiras e fiscais: contas 
 - Administrando Banco de Dados · Fundação Bradesco (2025)
 - Análise de Dados com Python · Daxus (2025)
 
+### 📚 Minha Biblioteca · Dados & Código
+
+Os livros que uso no trabalho com dados e no curso técnico de Desenvolvimento de Sistemas do **Senac**.
+São **27 livros em 7 temas**. Clique no tema para abrir.
+
+<details>
+<summary><b>🗄️ SQL e Banco de Dados</b> (4)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| SQL Guia Prático (4ª ed. original) | Alice Zhao | Novatec | 2022 |
+| SQL para Análise de Dados | Cathy Tanimura | Novatec | 2022 |
+| Introdução à Linguagem SQL | Thomas Nield | Novatec | 2016 |
+| Fundamentos da Qualidade de Dados | Barr Moses, Lior Gavish, Molly Vorwerck | Alta Books | — |
+
+</details>
+
+<details>
+<summary><b>🐍 Python e Análise de Dados</b> (6)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| Pandas e o Demônio dos Dados: algoritmos em Python para Sistemas de Informação | Marco Antonio Leonel Caetano | Blucher | 2025 |
+| Python para Excel: um ambiente moderno para automação e análise de dados | Felix Zumstein | Alta Books | 2024 |
+| Python para Análise de Dados | Wes McKinney | Novatec | 2023 |
+| Python para Ciência de Dados: uma introdução prática | Yuli Vasiliev | Novatec | 2023 |
+| Python e Mercado Financeiro: programação para estudantes, investidores e analistas | Marco Antonio Leonel Caetano | Blucher | 2021 |
+| Pense em Python | Allen B. Downey | Novatec | 2016 |
+
+</details>
+
+<details>
+<summary><b>📊 BI e Excel</b> (2)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| Dominando o Power BI (3ª ed.) | Karine Lago, Laennder Alves | Datab | 2020 |
+| Excel de A até XFD (2ª ed.) | Karine Lago | Datab | 2019 |
+
+</details>
+
+<details>
+<summary><b>📈 Estatística</b> (4)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| Manual de Análise de Dados | Luiz Paulo Fávero, Patrícia Belfiore | LTC | 2022 |
+| A Arte da Estatística: como aprender a partir de dados | David Spiegelhalter | Zahar | 2022 |
+| Estatística: o que é, para que serve, como funciona | Charles Wheelan | Zahar | 2016 |
+| Estatística Prática para Cientistas de Dados | Peter Bruce, Andrew Bruce | — | — |
+
+</details>
+
+<details>
+<summary><b>☕ Programação e Arquitetura de Software</b> (4)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| Use a Cabeça! Java (3ª ed.) | Trisha Gee, Kathy Sierra, Bert Bates | Alta Books | 2024 |
+| Arquitetura Limpa: o guia do artesão para estrutura e design de software | Robert C. Martin | Alta Books | 2018 |
+| Java para Iniciantes (6ª ed.) | Herbert Schildt | Bookman | 2015 |
+| Entendendo Algoritmos | Aditya Y. Bhargava | Novatec | — |
+
+</details>
+
+<details>
+<summary><b>🐧 Linux, Redes e Computadores</b> (4)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| Redes de Computadores (6ª ed.) | Andrew S. Tanenbaum, Nick Feamster, David Wetherall | Bookman | 2021 |
+| Shell Linux: do aprendiz ao administrador | Tales Araújo Mendonça, Bruno Gonçalves Araújo | Viena | 2015 |
+| Organização Estruturada de Computadores (6ª ed.) | Andrew S. Tanenbaum, Todd Austin | Pearson | 2013 |
+| Comandos Linux: prático e didático | Marco Agisander Lunardi | Ciência Moderna | 2007 |
+
+</details>
+
+<details>
+<summary><b>🚀 Carreira, Gestão e Aprendizado</b> (3)</summary>
+
+| Livro | Autor(es) | Editora | Ano |
+|---|---|---|---|
+| Ultra-aprendizado | Scott Young | HarperCollins | 2020 |
+| Pipeline de Liderança | Ram Charan, Stephen Drotter, James Noel | Sextante | 2018 |
+| Ágil do Jeito Certo | Darrell Rigby, Sarah Elk, Steve Berez | — | — |
+
+</details>
+
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wellingtonjribeiro-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonjribeiro/)
